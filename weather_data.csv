@@ -1,0 +1,21 @@
+estado,cidade,temperature,umidade,vento,condicao
+Acre,Rio Branco,27.3,85,10,Chuva
+Alagoas,Maceió,29.1,78,15,Ensolarado
+Amazonas,Manaus,31.5,90,12,Nublado
+Bahia,Salvador,28.2,80,14,Parcialmente Nublado
+Ceará,Fortaleza,30.0,75,18,Ensolarado
+Distrito Federal,Brasília,25.4,65,10,Ensolarado
+Espírito Santo,Vitória,27.0,72,9,Parcialmente Nublado
+Goiás,Goiânia,26.5,70,12,Ensolarado
+Maranhão,São Luís,29.8,82,20,Chuva
+Mato Grosso,Cuiabá,34.2,55,25,Ensolarado
+Mato Grosso do Sul,Campo Grande,28.7,60,17,Parcialmente Nublado
+Minas Gerais,Belo Horizonte,24.3,68,11,Nublado
+Pará,Belém,30.5,88,14,Chuva
+Paraíba,João Pessoa,29.6,80,16,Ensolarado
+Paraná,Curitiba,22.8,75,12,Chuva
+Pernambuco,Recife,28.9,77,13,Parcialmente Nublado
+Piauí,Teresina,33.1,62,19,Ensolarado
+Rio de Janeiro,Rio de Janeiro,27.4,73,12,Nublado
+Rio Grande do Norte,Natal,28.2,76,18,Ensolarado
+Rio Grande do Sul,Porto Alegre,23.7,80,14,Chuva
