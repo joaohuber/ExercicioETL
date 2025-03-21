@@ -40,11 +40,11 @@ def etl_from_csv():
     except FileNotFoundError as e:
         print(f"❌ Erro: {e}")
     except pd.errors.EmptyDataError:
-        print("❌ Erro: O arquivo CSV está vazio.")
+        print(f"❌ Erro: O arquivo CSV está vazio.")
     except SQLAlchemyError as e:
         print(f"❌ Erro ao conectar ao banco de dados: {e}")
     except ModuleNotFoundError as e:
-        print("❌ Erro: O módulo 'psycopg2' não está instalado. Instale com 'pip install psycopg2-binary'.")
+        print(f"❌ Erro: O módulo 'psycopg2' não está instalado. Instale com 'pip install psycopg2-binary'.")
     except Exception as e:
         print(f"❌ Erro inesperado: {e}")
     finally:
